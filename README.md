@@ -85,3 +85,9 @@ This project demonstrates how CNNs can be effectively used to automate biologica
 
 https://drive.google.com/drive/folders/1E8FQJkblB4L0tKrYr6NWYgqnzpVg4a2s?usp=drive_link
 
+---
+
+## PPT link
+
+https://www.canva.com/design/DAGuvUcMWHw/JSBs_xWosZeiSofzbV--Hg/edit?utm_content=DAGuvUcMWHw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
