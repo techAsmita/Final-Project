@@ -83,5 +83,5 @@ This project demonstrates how CNNs can be effectively used to automate biologica
 
 ## Drive Link (for dataset and CNN.h5 file)
 
-https://drive.google.com/drive/u/0/folders/1E8FQJkblB4L0tKrYr6NWYgqnzpVg4a2s
+https://drive.google.com/drive/folders/1E8FQJkblB4L0tKrYr6NWYgqnzpVg4a2s?usp=drive_link
 
